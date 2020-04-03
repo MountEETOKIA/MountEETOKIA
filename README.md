@@ -1,1 +1,9 @@
-# mounteetokia
+<html>
+
+  <head>
+    <meta HTTP-EQUIV="REFRESH" content="0; url=http://mounteetokia.siteleaf.net">
+  </head>
+
+  <h1><center>Redirecting you to MountEETOKIA...</center></h1>
+  
+</html>
